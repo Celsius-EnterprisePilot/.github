@@ -1,3 +1,3 @@
 # .github
 
-Welcome to <Orgname>
+Welcome to CN
